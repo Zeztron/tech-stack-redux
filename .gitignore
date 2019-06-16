@@ -2,9 +2,6 @@
 #
 .DS_Store
 
-android/
-iod/
-
 # Xcode
 #
 build/
