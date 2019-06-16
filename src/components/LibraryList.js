@@ -8,7 +8,7 @@ class LibraryList extends Component {
     renderItem({ item }) {
         return <ListItem library={item} />
     }
-
+    
     render() {
         return (
             <FlatList 
